@@ -1,0 +1,23 @@
+
+
+span {
+    color: red;
+}
+
+.paragraph-text {
+    color: green;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+    display: inline-flex;
+}
+
+li {
+    margin: 10px;
+}
+
+.heart {
+    color: red;
+}
